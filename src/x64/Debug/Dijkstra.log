@@ -1,0 +1,5 @@
+﻿  main.cpp
+F:\Uniii\Github Repositories\Dijkstra-Algorithm-Implementation\src\Stack.h(53): warning C4715: 'Stack<int>::pop': not all control paths return a value
+F:\Uniii\Github Repositories\Dijkstra-Algorithm-Implementation\src\Dijkstra.h(78): warning C4715: 'Graph<int,int>::getCostArrayIndex': not all control paths return a value
+F:\Uniii\Github Repositories\Dijkstra-Algorithm-Implementation\src\Dijkstra.h(70): warning C4715: 'Graph<int,int>::getCost': not all control paths return a value
+  Dijkstra.vcxproj -> F:\Uniii\Github Repositories\Dijkstra-Algorithm-Implementation\src\x64\Debug\Dijkstra.exe
